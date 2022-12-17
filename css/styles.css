@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.bg-image {
+     background-image: url("../image2.jpg");
+     background-size: cover;
+
+     padding-top: 400px;
+     padding-bottom: 400px;
+        }
+
+h1 {
+    color: #A3CFF0;
+    font-family: 'Jura', sans-serif;
+    font-size: 350%;
+}
+
+h2, h3 {
+  color: #5AADED;
+  font-family: 'Jura', sans-serif;
+}
+
+h4 {
+  color: #4B5E6E;
+  font-family: 'Jura', sans-serif;
+}
+
+.centered {
+  padding: 10px 200px;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+#skills {
+  position: relative;
+  background-color: #A3CFF0;
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+.text {
+  color: #4B5E6E;
+}
+
+.card-spacing {
+  position: relative;
+  bottom: 200px;
+  text-align: center;
+}
+
+.close {
+  position: relative;
+  color: #4B5E6E;
+  text-align: center;
+  font-weight: 700
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+  color: #4B5E6E;
+}
+
+#footer {
+  background-color: #2A506E;
+  position: relative;
+  text-align: center;
+  padding: 30px 100px;
+  }
+
+.soc {
+  color: #A3CFF0;
+  padding: 20px;
+  font-size: 3.0rem
+  }
+
+.foot {
+  color: #A3CFF0;
+}
